@@ -20,24 +20,26 @@ My name Chrysovalanti Voutselas, I'm an economist with a strong passion for data
 
 - 🎓 Hold a Diploma in Data Science and a Bachelor's in Economics from Concordia University.
 - 💼 Currently working at TD Canada Trust, where I integrate data-driven insights into my daily interactions and operations.
-- 📊 My projects range from analyzing Expected Goals in soccer to developing predictive models for bird species identification and devising strategies for maximizing profit in bank heists.
-- 🛠 Proficient in Python, C++, SQL, and various data science libraries and tools.
+- 📊 My projects span a diverse range, from analyzing Expected Goals in soccer and developing predictive models for bird species identification, to designing dynamic weather forecast web applications with Django, and strategizing to maximize profit in bank heists.
+- 🛠 Proficient in Python, C++, SQL, HTML and various data science libraries and tools.
 - 🌐 Find me on [LinkedIn](https://linkedin.com/in/cvoutselas).
 - 👀 Actively seeking opportunities in the Data Science, Data Analytics, and Machine Learning fields.
 
 ## 📚 Projects
 
+- **Weather Forecast Webpage** -  A Django-powered site providing real-time weather updates. Search for any city to not only get its forecast but also see a beautiful backdrop of that locale. [View on Github](https://github.com/cvoutselas/Weather-Forecast-App)
 - **xG English Premier League Soccer Analysis** - An in-depth analysis of Expected Goals in soccer across nine EPL seasons. [View on GitHub](https://github.com/cvoutselas/xG-Project)
 - **Bird Species Predictive Modelling** - Developed a bird species classifier using transfer learning and the InceptionV3 pre-trained model. Achieved a test accuracy of 100%! [View on GitHub](https://github.com/cvoutselas/Predictive-Modelling-Project)
 - **Bank Heist Project** - Devised a strategy to maximize profit by robbing banks within a 24-hour window using KDTree and path optimization. Managed to rob 294 banks with a total score of 15,131,700, achieving the 2nd highest score ever by a student. [View on GitHub](https://github.com/cvoutselas/Bank-Heist-Project)
 
 ## 🛠 Skills
 
-- **Programming Languages:** Python, C++, SQL
-- **Data Manipulation:** Pandas, SQL
-- **Visualization:** Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, TensorFlow, Predictive Modeling
-- **Web Scraping:** BeautifulSoup
+- **Programming Languages:** Python, C++, SQL, HTML
+- **Development & IDE Tools:** Jupyter Notebook, PyCharm
+- **Web Development & Frameworks:** Django
+- **Libraries & Frameworks:** Pandas (Data Manipulation), Matplotlib & Seaborn (Visualization), Scikit-learn (Machine Learning), Tensorflow (Deep Learning), BeautifulSoup (Web Scraping)
+- **Data Visualization & Reporting Tools:** Power BI, Excel
+- **Data Science & Machine Learning Techniques:** NLP (Natural Language Processing), Regression, Clustering, Predictive Modeling, General Machine Learning Techniques
 
 🌐 **Languages:** English, French, Greek, and Italian
 
