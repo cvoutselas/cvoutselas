@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name Chrysovalanti Voutselas, I'm an economist with a strong passion for data science. My background in banking gives me a unique perspective on data, and I'm driven by the quest to extract valuable insights from numbers to influence decision-making.
 
 - 🎓 Hold a Diploma in Data Science and a Bachelor's in Economics from Concordia University.
-- 💼 Currently working at TD Canada Trust, where I integrate data-driven insights into my daily interactions and operations.
+- 💼 Currently working at Recochem as a Forecast Analyst.
 - 📊 My projects span a diverse range, from analyzing Expected Goals in soccer and developing predictive models for bird species identification, to designing dynamic weather forecast web applications with Django, and strategizing to maximize profit in bank heists.
 - 🛠 Proficient in Python, C++, SQL, HTML and various data science libraries and tools.
 - 🌐 Find me on [LinkedIn](https://linkedin.com/in/cvoutselas).
